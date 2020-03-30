@@ -1,5 +1,6 @@
 Yonalid Martinez
 Diego Alejandro codigo 47412
+Andres Beltran 83724
 
 codigo de para iniciar el laboratorio
 
