@@ -27,3 +27,7 @@ case (bcd)
 endcase 
 endmodule 
 
+Restricciones:
+BCD: 4 bits entran, salen 7 Bits
+sumador= Suma bit a bit, da la respuesta en 14 bits
+Conversor:transforma los bits de suma en en codigo BCD; Entran 14 bits salida 4bits por unidad (Unidades, Decenas,Centenas,Unidades de mil)
