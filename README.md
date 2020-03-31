@@ -1,5 +1,6 @@
 Yonalid Martinez
 Diego Alejandro codigo 47412
+Andres Beltran 83724
 
 codigo de para iniciar el laboratorio
 
@@ -26,6 +27,7 @@ case (bcd)
 endcase 
 endmodule 
 
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------
 siguiente codigo 
 module BCDtoSSeg (BCD, SSeg);
@@ -57,3 +59,9 @@ end
 
 endmodule
 
+=======
+Restricciones:
+BCD: 4 bits entran, salen 7 Bits
+sumador= Suma bit a bit, da la respuesta en 14 bits
+Conversor:transforma los bits de suma en en codigo BCD; Entran 14 bits salida 4bits por unidad (Unidades, Decenas,Centenas,Unidades de mil)
+>>>>>>> 1fe1320cb71733fe4854d91dbd4a63e8dcff12eb
