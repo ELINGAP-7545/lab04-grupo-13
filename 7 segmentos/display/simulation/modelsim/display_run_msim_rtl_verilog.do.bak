@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/User/Desktop/7\ segmentos {C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v}
+vlog -vlog01compat -work work +incdir+C:/Users/User/Desktop/7\ segmentos/display {C:/Users/User/Desktop/7 segmentos/display/display.v}
+

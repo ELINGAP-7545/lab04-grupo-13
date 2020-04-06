@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Desktop/7 segmentos/simulation/modelsim
+vBCDtoSSeg
+Z1 !s110 1586119574
+!i10b 1
+!s100 T2CJQTbG8bV:jjZdMOViL0
+IA=1f:C8Ym8NZ=EOd:mk8b2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1585968084
+8C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v
+FC:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1586119573.000000
+!s107 C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Desktop/7 segmentos|C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work {+incdir+C:/Users/User/Desktop/7 segmentos}
+Z6 tCvgOpt 0
+n@b@c@dto@s@seg
+vBCDtoSSeg_TB
+R1
+!i10b 1
+!s100 Fb^2o0V>fg>YPOeYQZInK1
+IA03IEU<F_2VlJFOk>^Ld>0
+R2
+R0
+w1585267827
+8C:/Users/User/Desktop/7 segmentos/BCDtoSSeg_TB.v
+FC:/Users/User/Desktop/7 segmentos/BCDtoSSeg_TB.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1586119574.000000
+!s107 C:/Users/User/Desktop/7 segmentos/BCDtoSSeg_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Desktop/7 segmentos|C:/Users/User/Desktop/7 segmentos/BCDtoSSeg_TB.v|
+!i113 1
+R4
+R5
+R6
+n@b@c@dto@s@seg_@t@b
