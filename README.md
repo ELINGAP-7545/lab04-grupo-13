@@ -15,6 +15,4 @@ ________________________________________________________________________________
 Evidenica
 
 
-https://github.com/ELINGAP-7545/lab04-grupo-13/issues/4#issue-595505246
 
-https://github.com/ELINGAP-7545/lab04-grupo-13/issues/5#issue-595516546
