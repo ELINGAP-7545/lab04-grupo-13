@@ -22,3 +22,12 @@ Evidenica
 ![explicacion test](https://user-images.githubusercontent.com/62714712/78621913-55768d80-7849-11ea-8cb6-4c579ca632bd.PNG)
 ![explicacion test2](https://user-images.githubusercontent.com/62714712/78621928-5c050500-7849-11ea-992f-a6a27209ed16.PNG)
 
+________________________________________________________________________________________________________________________________
+SIMULACION:
+
+SIMULACION DEL BCD 1 DISPLAY.
+
+![captura2](https://user-images.githubusercontent.com/62714712/78622334-7b506200-784a-11ea-8f8b-927a5e3c3e81.PNG)
+
+SIMULACION DEL BCD COMPLETO 4 DISPLAY
+![simulacioncompleta](https://user-images.githubusercontent.com/62714712/78622343-81464300-784a-11ea-9e5a-e27a6b0d7740.PNG)
