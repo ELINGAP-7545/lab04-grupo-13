@@ -23,7 +23,7 @@ y profesional, como lo fue su archivo.
 
 En las siguientes imagenes encontrara la explicacion del Codigo.
 Gracias por su atencion prestada
-
+__________________________________________________________________________________________________________
 Evidenica
 
 ![Explicacion de display](https://user-images.githubusercontent.com/62714712/78621897-4d1e5280-7849-11ea-991d-22cc75d5d7a7.PNG)
