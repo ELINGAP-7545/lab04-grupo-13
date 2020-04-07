@@ -37,7 +37,11 @@ SIMULACION:
 
 SIMULACION DEL BCD 1 DISPLAY.
 
+![imagen](https://github.com/ELINGAP-7545/lab04-grupo-13/blob/master/techbn.jpg)
+
 ![captura2](https://user-images.githubusercontent.com/62714712/78622334-7b506200-784a-11ea-8f8b-927a5e3c3e81.PNG)
 
 SIMULACION DEL BCD COMPLETO 4 DISPLAY
 ![simulacioncompleta](https://user-images.githubusercontent.com/62714712/78622343-81464300-784a-11ea-9e5a-e27a6b0d7740.PNG)
+
+
