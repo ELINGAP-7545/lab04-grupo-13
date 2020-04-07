@@ -1,5 +1,5 @@
 Flow report for display
-Sun Apr 05 18:06:41 2020
+Mon Apr 06 21:04:07 2020
 Quartus Prime Version 19.1.0 Build 670 09/22/2019 SJ Lite Edition
 
 
@@ -41,7 +41,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Sun Apr 05 18:06:41 2020       ;
+; Flow Status                        ; Successful - Mon Apr 06 21:04:07 2020       ;
 ; Quartus Prime Version              ; 19.1.0 Build 670 09/22/2019 SJ Lite Edition ;
 ; Revision Name                      ; display                                     ;
 ; Top-level Entity Name              ; display                                     ;
@@ -67,7 +67,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 04/05/2020 18:06:30 ;
+; Start date & time ; 04/06/2020 21:03:52 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; display             ;
 +-------------------+---------------------+
@@ -78,7 +78,7 @@ https://fpgasoftware.intel.com/eula.
 +--------------------------------------+--------------------------------------------------------------------------------------------+---------------+-------------+-----------------------------------+
 ; Assignment Name                      ; Value                                                                                      ; Default Value ; Entity Name ; Section Id                        ;
 +--------------------------------------+--------------------------------------------------------------------------------------------+---------------+-------------+-----------------------------------+
-; COMPILER_SIGNATURE_ID                ; 62488672209243.158612799002744                                                             ; --            ; --          ; --                                ;
+; COMPILER_SIGNATURE_ID                ; 62488672209243.158622503224024                                                             ; --            ; --          ; --                                ;
 ; EDA_DESIGN_INSTANCE_NAME             ; NA                                                                                         ; --            ; --          ; testbench                         ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                                                                        ; --            ; --          ; eda_board_design_timing           ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                                                                        ; --            ; --          ; eda_board_design_boundary_scan    ;
@@ -108,8 +108,8 @@ https://fpgasoftware.intel.com/eula.
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name            ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Elaboration ; 00:00:12     ; 1.0                     ; 615 MB              ; 00:00:24                           ;
-; Total                  ; 00:00:12     ; --                      ; --                  ; 00:00:24                           ;
+; Analysis & Elaboration ; 00:00:15     ; 1.0                     ; 615 MB              ; 00:00:27                           ;
+; Total                  ; 00:00:15     ; --                      ; --                  ; 00:00:27                           ;
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

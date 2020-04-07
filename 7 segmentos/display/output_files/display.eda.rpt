@@ -1,5 +1,5 @@
 EDA Netlist Writer report for display
-Sun Apr 05 18:06:22 2020
+Mon Apr 06 19:34:48 2020
 Quartus Prime Version 19.1.0 Build 670 09/22/2019 SJ Lite Edition
 
 
@@ -37,7 +37,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Sun Apr 05 18:06:22 2020 ;
+; EDA Netlist Writer Status ; Successful - Mon Apr 06 19:34:48 2020 ;
 ; Revision Name             ; display                               ;
 ; Top-level Entity Name     ; display                               ;
 ; Family                    ; MAX 10                                ;
@@ -81,14 +81,14 @@ https://fpgasoftware.intel.com/eula.
 Info: *******************************************************************
 Info: Running Quartus Prime EDA Netlist Writer
     Info: Version 19.1.0 Build 670 09/22/2019 SJ Lite Edition
-    Info: Processing started: Sun Apr 05 18:06:22 2020
+    Info: Processing started: Mon Apr 06 19:34:46 2020
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off display -c display
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (204019): Generated file display.vo in folder "C:/Users/User/Desktop/7 segmentos/display/simulation/modelsim/" for EDA simulation tool
 Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 556 megabytes
-    Info: Processing ended: Sun Apr 05 18:06:23 2020
-    Info: Elapsed time: 00:00:01
+    Info: Processing ended: Mon Apr 06 19:34:48 2020
+    Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:01
 
 

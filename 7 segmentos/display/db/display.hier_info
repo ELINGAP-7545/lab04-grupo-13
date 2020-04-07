@@ -42,17 +42,17 @@ clk => cfreq[23].CLK
 clk => cfreq[24].CLK
 clk => cfreq[25].CLK
 clk => cfreq[26].CLK
-sseg[6] << BCDtoSSeg:bcdtosseg.SSeg[6]
-sseg[5] << BCDtoSSeg:bcdtosseg.SSeg[5]
-sseg[4] << BCDtoSSeg:bcdtosseg.SSeg[4]
-sseg[3] << BCDtoSSeg:bcdtosseg.SSeg[3]
-sseg[2] << BCDtoSSeg:bcdtosseg.SSeg[2]
-sseg[1] << BCDtoSSeg:bcdtosseg.SSeg[1]
-sseg[0] << BCDtoSSeg:bcdtosseg.SSeg[0]
-an[0] << an[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
-an[1] << an[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
-an[2] << an[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
-an[3] << an[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+sseg[6] <= BCDtoSSeg:bcdtosseg.SSeg[6]
+sseg[5] <= BCDtoSSeg:bcdtosseg.SSeg[5]
+sseg[4] <= BCDtoSSeg:bcdtosseg.SSeg[4]
+sseg[3] <= BCDtoSSeg:bcdtosseg.SSeg[3]
+sseg[2] <= BCDtoSSeg:bcdtosseg.SSeg[2]
+sseg[1] <= BCDtoSSeg:bcdtosseg.SSeg[1]
+sseg[0] <= BCDtoSSeg:bcdtosseg.SSeg[0]
+an[0] <= an[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+an[1] <= an[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+an[2] <= an[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+an[3] <= an[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 rst => cfreq.OUTPUTSELECT
 rst => cfreq.OUTPUTSELECT
 rst => cfreq.OUTPUTSELECT
@@ -90,7 +90,7 @@ rst => bcd[1].ENA
 rst => bcd[0].ENA
 rst => bcd[2].ENA
 rst => bcd[3].ENA
-led << cfreq[16].DB_MAX_OUTPUT_PORT_TYPE
+led <= cfreq[16].DB_MAX_OUTPUT_PORT_TYPE
 
 
 |display|BCDtoSSeg:bcdtosseg

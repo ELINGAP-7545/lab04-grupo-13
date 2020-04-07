@@ -9,13 +9,13 @@ z2
 cModel Technology
 Z0 dC:/Users/User/Desktop/7 segmentos/display/simulation/modelsim
 vBCDtoSSeg
-Z1 !s110 1586128008
+Z1 !s110 1586225056
 !i10b 1
-!s100 T2CJQTbG8bV:jjZdMOViL0
-IA=1f:C8Ym8NZ=EOd:mk8b2
+!s100 fDULclkY`TPU;L[T=SF_80
+ILEO>Tb?9T=47d4Kkh_D0D1
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1585968084
+w1586221465
 8C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v
 FC:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v
 L0 1
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1586128008.000000
+Z4 !s108 1586225056.000000
 !s107 C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Desktop/7 segmentos|C:/Users/User/Desktop/7 segmentos/BCDtoSSeg.v|
 !i113 1
@@ -34,14 +34,14 @@ n@b@c@dto@s@seg
 vdisplay
 R1
 !i10b 1
-!s100 ZRWl2hVRoEVXRj0K<5FmQ1
-I]6C;a7Ta]XX5cjJPamGjH3
+!s100 P>Ud1oP6R3nJF7_WbIIkg3
+I:?aQ04DlWoaX=7LY>;Sd62
 R2
 R0
-w1586126455
+w1586222376
 8C:/Users/User/Desktop/7 segmentos/display/display.v
 FC:/Users/User/Desktop/7 segmentos/display/display.v
-L0 1
+L0 2
 R3
 r1
 !s85 0
