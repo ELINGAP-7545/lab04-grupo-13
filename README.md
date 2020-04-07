@@ -17,5 +17,3 @@ números en representación hexadecimal (0x0 a 0xF).
 ________________________________________________________________________________________________________
 Evidenica
 
-https://github.com/ELINGAP-7545/lab04-grupo-13/issues/4#issue-595505246
-https://github.com/ELINGAP-7545/lab04-grupo-13/issues/5#issue-595516546
