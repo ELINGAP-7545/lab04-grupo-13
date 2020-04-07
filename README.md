@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿lab04
 
 Yonalid Martinez
@@ -5,9 +6,19 @@ Yonalid Martinez
 Diego Alejandro Roldán Parrado codigo 47412
 
 Andres Beltran 83724
+=======
+lab04
 
+Yonalid Martinez
+>>>>>>> 5e4706edb9b52350fe2488429ea8ec4ead2e11a0
 
+Diego Alejandro Roldán Parrado codigo 47412
 
+<<<<<<< HEAD
+
+=======
+Andres Beltran 83724
+>>>>>>> 5e4706edb9b52350fe2488429ea8ec4ead2e11a0
 
 En este Ejercicio se realizara el diseño, sintentización e 
 implementación del Display de 7 sergmentos, el cual permita visualizar 
