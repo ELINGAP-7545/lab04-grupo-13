@@ -31,7 +31,7 @@ Evidenica
 ![explicacion del divisor y activacion de los display2](https://user-images.githubusercontent.com/62714712/78621908-53143380-7849-11ea-8aa4-62bce00344ab.PNG)
 ![explicacion test](https://user-images.githubusercontent.com/62714712/78621913-55768d80-7849-11ea-8cb6-4c579ca632bd.PNG)
 ![explicacion test2](https://user-images.githubusercontent.com/62714712/78621928-5c050500-7849-11ea-992f-a6a27209ed16.PNG)
-
+![testben](https://user-images.githubusercontent.com/62714712/78624606-a8534380-784f-11ea-9d95-b6ae2803225e.PNG)
 ________________________________________________________________________________________________________________________________
 SIMULACION:
 
