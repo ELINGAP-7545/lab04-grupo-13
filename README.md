@@ -14,6 +14,5 @@ números en representación hexadecimal (0x0 a 0xF).
 ________________________________________________________________________________________________________
 Evidenica
 
-![display1](https://user-images.githubusercontent.com/62714712/78512813-22f76280-776d-11ea-9978-19aa5bea22b2.PNG)
-![display2](https://user-images.githubusercontent.com/62714712/78512887-a7e27c00-776d-11ea-9c16-3cf058c7f7a5.PNG)
-
+https://github.com/ELINGAP-7545/lab04-grupo-13/issues/4#issue-595505246
+https://github.com/ELINGAP-7545/lab04-grupo-13/issues/5#issue-595516546
