@@ -17,6 +17,13 @@ números en representación hexadecimal (0x0 a 0xF).
 ![imagen](https://user-images.githubusercontent.com/62714712/78621824-1f390e00-7849-11ea-910d-f7fee79c817f.gif)
 
 ________________________________________________________________________________________________________
+INGENIERO FERNEY ALBERTO BELTRAN MOLINA.
+Nos disculpamos por subir imagenes con la explicacion dentro del codigo la verdad no logramos poder dejarlo mas detallado 
+y profesional, como lo fue su archivo.
+
+En las siguientes imagenes encontrara la explicacion del Codigo.
+Gracias por su atencion prestada
+
 Evidenica
 
 ![Explicacion de display](https://user-images.githubusercontent.com/62714712/78621897-4d1e5280-7849-11ea-991d-22cc75d5d7a7.PNG)
