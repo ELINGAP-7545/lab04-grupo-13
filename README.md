@@ -16,5 +16,9 @@ números en representación hexadecimal (0x0 a 0xF).
 ________________________________________________________________________________________________________
 Evidenica
 
-
+![Explicacion de display](https://user-images.githubusercontent.com/62714712/78621897-4d1e5280-7849-11ea-991d-22cc75d5d7a7.PNG)
+![explicacion del divisor frecuencia y activacion de los display](https://user-images.githubusercontent.com/62714712/78621904-514a7000-7849-11ea-85ce-dee222b79d49.PNG)
+![explicacion del divisor y activacion de los display2](https://user-images.githubusercontent.com/62714712/78621908-53143380-7849-11ea-8aa4-62bce00344ab.PNG)
+![explicacion test](https://user-images.githubusercontent.com/62714712/78621913-55768d80-7849-11ea-8cb6-4c579ca632bd.PNG)
+![explicacion test2](https://user-images.githubusercontent.com/62714712/78621928-5c050500-7849-11ea-992f-a6a27209ed16.PNG)
 
